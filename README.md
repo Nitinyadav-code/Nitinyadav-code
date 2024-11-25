@@ -1,4 +1,4 @@
-- ### 👋 Hi, I’m @Nitin-Yadav-developer
+- ### 👋 Hi, I’m Nitin Yadav
 - ### 👀 I’m interested in backend development, relational databases, machine learning, and AI-driven applications.
 - ### 🌱 I’m currently learning about artificial intelligence and machine learning concepts, with a focus on health tech applications like diabetes prediction.
 - ### 💞️ I’m looking to collaborate on open-source projects related to backend development, AI applications, or Android development.
